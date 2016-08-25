@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>190549184746-eqfstnv008rikdmccj6jc2vveeeqamh5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.190549184746-eqfstnv008rikdmccj6jc2vveeeqamh5</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC83WBBR8N1touaaYsiXPbATQpzPcKTT5I</string>
+	<key>GCM_SENDER_ID</key>
+	<string>190549184746</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>KhoiNguyen.AppBeta</string>
+	<key>PROJECT_ID</key>
+	<string>app-socials-c30fc</string>
+	<key>STORAGE_BUCKET</key>
+	<string>app-socials-c30fc.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:190549184746:ios:7e2cdb880b7a9239</string>
+	<key>DATABASE_URL</key>
+	<string>https://app-socials-c30fc.firebaseio.com</string>
+</dict>
+</plist>
